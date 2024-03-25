@@ -158,7 +158,7 @@
     }
     ```
 
-    [server code](server/server.c)
+    [server code](part_4/server/server.c)
 
 + Run the written mini server via spawn-fcgi on port 8080
 
