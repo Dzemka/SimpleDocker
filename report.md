@@ -208,7 +208,7 @@
 
     4. runs nginx.
 
-    [Dockerfile](Dockerfile)
+    [Dockerfile](part_4/Dockerfile)
 
 + Build the written docker image with docker build, specifying the name and tag
 
