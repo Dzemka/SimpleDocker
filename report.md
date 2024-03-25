@@ -183,7 +183,7 @@
 
 + Write your own nginx.conf that will proxy all requests from port 81 to 127.0.0.1:8080
 
-    [nginx.conf](part_4/server/nginx.conf)
+    [nginx.conf](part_4/nginx/nginx.conf)
 
 + Check that browser on localhost:81 returns the page you wrote
 
